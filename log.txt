@@ -1,1 +1,48 @@
-err logs
+commit 14ae65e27ef2d9def2f00b4619b66c1cbbcbcaca
+Author: BapuPatil <bpatil97@gmail.com>
+Date:   Sun Apr 26 14:34:44 2020 +0530
+
+    readme.md has been changed
+
+commit 88a37f7a6a39eac9f81c6503a885a93545faa1ef
+Author: BapuPatil <bpatil97@gmail.com>
+Date:   Sun Apr 5 18:26:38 2020 +0530
+
+    made changes to the test.txt
+
+commit 85ffd9b963d5bfbde064ddd156ec57801b842184
+Author: BapuPatil <bpatil97@gmail.com>
+Date:   Sun Apr 5 18:20:52 2020 +0530
+
+    adding readme
+
+commit a7626f474be0df63e3c082b37e5d6002d7b6990e
+Merge: 9be6351 c6bda6f
+Author: BapuPatil <bpatil97@gmail.com>
+Date:   Sun Apr 5 18:13:48 2020 +0530
+
+    this is necessary
+
+commit c6bda6f4e97096028cddf02c835e103ef3d45258
+Author: BapuPatil <bpatil97@gmail.com>
+Date:   Sun Apr 5 18:12:50 2020 +0530
+
+    login
+
+commit 9be63516211548dc592a96c0e4ff3a2adda12af2
+Author: BapuPatil <bpatil97@gmail.com>
+Date:   Sun Apr 5 18:11:25 2020 +0530
+
+    used gitignore
+
+commit 8a8e8ab18c6fdf9e0e6993744d590f93878cce83
+Author: BapuPatil <bpatil97@gmail.com>
+Date:   Sun Apr 5 18:00:47 2020 +0530
+
+    changed index.html
+
+commit 3a6f17574a00b2918b824cbdad605310ce1f196b
+Author: BapuPatil <bpatil97@gmail.com>
+Date:   Sun Apr 5 17:59:02 2020 +0530
+
+    initial commit
