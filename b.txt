@@ -1,1 +1,1 @@
-feature 1
+Have made changes to file B
